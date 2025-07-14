@@ -25,8 +25,6 @@
     PS C:\> .\(STIG-ID-WN10-AU-000500).ps1 
 #>
 
-# YOUR CODE GOES HERE
-
 # Set registry path and value
 $registryPath = "HKLM:\SOFTWARE\POLICIES\Microsoft\EventLog\Application"
 $valueName = "MaxSize"
