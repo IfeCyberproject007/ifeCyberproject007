@@ -11,7 +11,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/IfeCyberproject007/threat-hunting-scenario-tor-)**
-- **[Port Of Entry(Threat Hunt)](https://docs.google.com/document/d/1Wj8QCD3abESa91KtVgVgBHOXSW13JQPH-k5RDgyV1h0/edit?tab=t.0)**
+- **[Port Of Entry(Threat Hunt)](https://github.com/IfeCyberproject007/-PORT-OF-ENTRY-THREAT-HUNT/blob/main/README.md)**
 
 <hr/>
 
